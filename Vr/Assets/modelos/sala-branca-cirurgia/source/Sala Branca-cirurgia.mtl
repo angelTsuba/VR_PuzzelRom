@@ -1,0 +1,33 @@
+newmtl Noise Glossy
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Wood 2
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Wood_001_Color.jpg
+newmtl Wood
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Wood_001_Color.jpg
+newmtl Noise Glossy 2
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Noise Glossy 1
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Noise Glossy 7
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Noise Glossy 3
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Noise Glossy 4
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Noise Glossy 5
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Concrete 1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Concrete_001_Color.jpg
