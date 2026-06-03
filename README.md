@@ -1,2 +1,2 @@
 # VR_PuzzelRom
-proyecto de noveno 
+Una experiencia VR para estimular la mente mediante la Torre de Hanoi (u oros a futuro incierto)
