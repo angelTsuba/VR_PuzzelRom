@@ -3,6 +3,8 @@ using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.XR.Interaction.Toolkit.Interactables;
 using UnityEngine.XR.Interaction.Toolkit.Interactors;
 
+using UnityEngine.SceneManagement;
+
 [RequireComponent(typeof(XRSimpleInteractable))]
 public class DoorPokeButton : MonoBehaviour
 {
@@ -130,6 +132,9 @@ public class DoorPokeButton : MonoBehaviour
             // Alterna la puerta entre abierta y cerrada.
             door.ToggleDoor();
         }
+
+        //reset
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     private void OnButtonReleased(SelectExitEventArgs args)
