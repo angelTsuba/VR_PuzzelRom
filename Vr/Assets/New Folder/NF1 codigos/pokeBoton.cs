@@ -134,7 +134,7 @@ public class DoorPokeButton : MonoBehaviour
         }
 
         //reset
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     private void OnButtonReleased(SelectExitEventArgs args)
